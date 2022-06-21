@@ -96,14 +96,17 @@ best weapon against complexity spirit demon is magic word: "no"
 
 "no, grug not build that abstraction"
 
-"no, grug not put water on body every day or drink less black think juice you stop ask"
+"no, grug not put water on body every day or drink less black think juice you stop ask now"
 
 note, this good engineering advice but bad career advice: "yes" is magic word for more shiney rock and put in
-charge of large tribe of developers.  sad but true: learn "yes" then learn blame others when fail, ideal career advice
+charge of large tribe of developer
 
-but grug must be true to grug, and "no" is magic grug word.  Hard to say, especially if you nice grug and don't like
-disappointing people, but it get easier over time even though shiney rock pile not as high as might otherwise be.  Is ok:
-how many shiney rock grug really need anyway?
+sad but true: learn "yes" then learn blame other grugs when fail, ideal career advice
+
+but grug must be true to grug, and "no" is magic grug word.  Hard say at first, especially if you nice grug and don't like
+disappoint people (many such grugs!) but  easier over time even though shiney rock pile not as high as might otherwise be
+
+is ok: how many shiney rock grug really need anyway?
 
 ## <a name="grug-on-saying-ok"></a>[Saying ok](#grug-on-saying-ok)
 
