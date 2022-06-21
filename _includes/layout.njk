@@ -1,0 +1,52 @@
+---
+title: The Grug Brained Developer
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+<style type="text/css">
+body {
+    margin: 40px auto;
+    max-width: 768px;
+    line-height: 1.6;
+    font-size: 20px;
+    color: #444;
+    padding: 0 10px;
+}
+
+h1, h2, h3 {
+    line-height: 1.2
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+h1 a {
+    color: #444;
+}
+
+h2 a {
+    color: #444;
+}
+</style>
+  </head>
+  <body>
+    {{ content | safe }}
+  </body>
+</html>

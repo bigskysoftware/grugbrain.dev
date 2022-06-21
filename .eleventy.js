@@ -1,3 +1,3 @@
 module.exports = function(eleventyConfig) {
-    eleventyConfig.addPassthroughCopy("**/*.png");
+    eleventyConfig.addPassthroughCopy("grug.png");
 };

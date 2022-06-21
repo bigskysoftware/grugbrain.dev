@@ -1,41 +1,6 @@
-<style type="text/css">
-body {
-    margin: 40px auto;
-    max-width: 768px;
-    line-height: 1.6;
-    font-size: 20px;
-    color: #444;
-    padding: 0 10px;
-        
-}
-
-h1, h2, h3 {
-    line-height: 1.2
-}
-
-a:link {
-  text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-a:active {
-  text-decoration: underline;
-}
-h1 a {
-    color: #444;
-}
-
-h2 a {
-    color: #444;
-}
-</style>
+---
+layout: layout.njk
+---
 
 <div>
   <a href="https://www.redbubble.com/i/sticker/Programmer-Grug-by-colossalbreaker/42915272.EJUG5">
