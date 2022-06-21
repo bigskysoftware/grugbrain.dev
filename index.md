@@ -107,14 +107,15 @@ how many shiney rock grug really need anyway?
 
 ## <a name="grug-on-saying-ok"></a>[Saying ok](#grug-on-saying-ok)
 
-sometimes compromise necessary or no shiney rock, mean no stegosaurus meat, not good.   in this situation grug
-recommend "ok"
+sometimes compromise necessary or no shiney rock, mean no dinosaur meat, not good, wife mad
+
+in this situation grug recommend "ok"
 
 "ok, grug build that feature"
 
 then grug spend time think of 80/20 solution to problem and build that instead.  80/20 solution say "we get 80 want at 
-20 code"  Solution not have all bell-whistle that project manager want, but work and deliver most value, and keep complexity
-spirit at bay for most part
+20 code"  Solution not have all bell-whistle that project manager want, maybe a little ugly, but work and deliver most 
+value, and keep complexity spirit at bay for most part
 
 sometimes probably best just not tell project manager and do it 80/20 way.  easier forgive than permission, and project managers
 mind like butterfly at times often forget what even supposed to do or move on or get fired
