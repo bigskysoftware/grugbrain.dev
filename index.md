@@ -3,9 +3,10 @@ body {
     margin: 40px auto;
     max-width: 768px;
     line-height: 1.6;
-    font-size: 18px;
+    font-size: 20px;
     color: #444;
-    padding: 0 10px
+    padding: 0 10px;
+        
 }
 
 h1, h2, h3 {
@@ -28,7 +29,7 @@ a:active {
   text-decoration: underline;
 }
 a {
- color: rgb(68, 68, 68);
+    color: #444;
 }
 </style>
 
@@ -46,14 +47,15 @@ a {
 
 this a collection of thoughts on software development by grug brain developer
 
-grug brain developer not very smart, but grug brain developer program many long sun-then-snow cycles and learn some things
+grug brain developer not very smart, but grug brain developer program many long year and learn some things
 although mostly still confused
 
 grug brain developer try collect learns into small, easily digestible and funny page, not only for you, the young grug, but also for him
 because as grug brain developer get older he forget important things, like what had for breakfast or if put pants on
 
-big brained developers are many, and many not expected to like this.  *think* they are big brained developers many, many
-more even, and many more even definitely hate this!
+big brained developers are many, and many not expected to like this
+
+*THINK* they are big brained developers many, many more even, and many more even definitely hate this
 
 is fine!  
 
@@ -300,7 +302,7 @@ grug still catch grug writing code like first example and often regret, so grug 
 
 # <a name="grug-on-closures"></a>[Closures](#grug-on-closures)
 
-grug like closures for right job and that job usually abstracting operation of collection of objects
+grug like closures for right job and that job usually abstracting operation over collection of objects
 
 grug warn closures like salt, type systems and generics: small amount go long way, but easy spoil things too much use
 
@@ -331,6 +333,8 @@ last two points are especially handy when fighting bugs in production systems of
 
 unfortunately log libraries often very complex (java, why you do?) but worth investing time in getting 
 logging infrastructure "just right" pay off big later in grug experience
+
+logging need taught more in schools, grug think
 
 # <a name="grug-on-concurrency"></a>[Concurrency](#grug-on-concurrency)
 
