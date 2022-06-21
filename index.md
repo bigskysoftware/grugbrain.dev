@@ -28,7 +28,7 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
-a {
+h1 a {
     color: #444;
 }
 </style>
