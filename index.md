@@ -31,6 +31,10 @@ a:active {
 h1 a {
     color: #444;
 }
+
+h2 a {
+    color: #444;
+}
 </style>
 
 <div>
