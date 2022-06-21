@@ -306,7 +306,7 @@ grug like closures for right job and that job usually abstracting operation over
 
 grug warn closures like salt, type systems and generics: small amount go long way, but easy spoil things too much use
 
-javascript developers call special complexity demon spirit "callback hell" because too much closure used by libraries
+javascript developers call special complexity demon spirit "callback hell" because too much closure used by javascript libraries
 very sad but also javascript developer get what deserved
 
 # <a name="grug-on-logging"></a>[Logging](#grug-on-logging)
