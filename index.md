@@ -51,7 +51,15 @@ complexity is spirit demon that enter codebase through well-meaning but ultimate
 developers and project managers who not fear complexity spirit demon or even know about
 
 one day code base understandable and grug can get work done, everything good.  next day impossible: complexity spirit 
-deamon has entered the code and very dangerous situation!  grug not see complexity demon, but grug feel its presence.
+deamon has entered the code and very dangerous situation!  
+
+grug not able see complexity demon, but grug feel its presence in code base, mocking him make change here break unrelated
+thing there mock mock mock ha ha so funny grug love programming and not becoming shiney rock speculator.  club not work 
+on complexity demon spirit and bad idea actually hit developer who let in with club, sometimes grug himself!
+
+sadly, often grug himself
+
+so grug say again and say often: complexity *very*, *very* bad
 
 ## <a name="grug-on-saying-no"></a>[Saying No](#grug-on-saying-no)
 
@@ -61,7 +69,7 @@ best weapon against complexity spirit demon is magic word: "no"
 
 "no, grug not build that abstraction"
 
-"no, grug not put water on body every day or drink less black think juice you stop ask now"
+"no, grug not put water on body every day or drink less black think juice you stop repeat ask now"
 
 note, this good engineering advice but bad career advice: "yes" is magic word for more shiney rock and put in
 charge of large tribe of developer
@@ -75,9 +83,11 @@ is ok: how many shiney rock grug really need anyway?
 
 ## <a name="grug-on-saying-ok"></a>[Saying ok](#grug-on-saying-ok)
 
-sometimes compromise necessary or no shiney rock, mean no dinosaur meat, not good, wife mad
+sometimes compromise necessary or no shiney rock, mean no dinosaur meat, not good, wife firmly remind grug
+about young grugs at home need roof, food, and so forth, no interest in complexity demon spirit rant by grug for
+fiftieth time
 
-in this situation grug recommend "ok"
+in this situation, grug recommend "ok"
 
 "ok, grug build that feature"
 
