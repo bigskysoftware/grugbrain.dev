@@ -11,6 +11,25 @@ body {
 h1, h2, h3 {
     line-height: 1.2
 }
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+a {
+ color: rgb(68, 68, 68);
+}
 </style>
 
 <div>
