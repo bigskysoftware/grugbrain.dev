@@ -1,0 +1,19 @@
+{
+  "name": "grugbrain.dev",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigskysoftware/grugbrain.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/bigskysoftware/grugbrain.dev/issues"
+  },
+  "homepage": "https://grugbrain.dev",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
