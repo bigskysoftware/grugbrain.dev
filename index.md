@@ -170,7 +170,7 @@ but, note well: grug must here be very disciplined!
 
 easy grug to move on and not write tests because "work on grugs machine"!
 
-this veru bad: no guarantee work on other machine and no guarantee work on grug machine in future, many times
+this very, very bad: no guarantee work on other machine and no guarantee work on grug machine in future, many times
 
 test shaman have good point on importance of test, even if test shaman often sometimes not complete useful
 feature in life and talk only about test all time, deserve of club but heart in right place
