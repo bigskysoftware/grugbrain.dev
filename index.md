@@ -83,7 +83,7 @@ charge of large tribe of developer
 
 sad but true: learn "yes" then learn blame other grugs when fail, ideal career advice
 
-but grug must be true to grug, and "no" is magic grug word.  Hard say at first, especially if you nice grug and don't like
+but grug must to grug be true, and "no" is magic grug word.  Hard say at first, especially if you nice grug and don't like
 disappoint people (many such grugs!) but  easier over time even though shiney rock pile not as high as might otherwise be
 
 is ok: how many shiney rock grug really need anyway?
@@ -99,7 +99,7 @@ in this situation, grug recommend "ok"
 "ok, grug build that feature"
 
 then grug spend time think of [80/20 solution](https://en.wikipedia.org/wiki/Pareto_principle) to problem and build that instead.  
-80/20 solution say "80 want with 20 code"  Solution not have all bell-whistle that project manager want, maybe a little ugly, but work and deliver most 
+80/20 solution say "80 want with 20 code"  solution not have all bell-whistle that project manager want, maybe a little ugly, but work and deliver most 
 value, and keep demon complexity spirit at bay for most part to extent
 
 sometimes probably best just not tell project manager and do it 80/20 way.  easier forgive than permission, project managers
