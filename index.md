@@ -202,14 +202,14 @@ end of day, not worst way to organize development, maybe better than others grug
 danger, however, is agile shaman!  many, many shiney rock lost to agile shaman!
 
 whenever project fail, agile shaman say "you didn't do agile right!"  grug note this awfully convenient for agile
-shaman ask more shiney rock better agaile train
+shaman, ask more shiney rock better agile train young grugs on agile
 
 danger!
 
-grug tempted reach for club when too much agile talk happen
+grug tempted reach for club when too much agile talk happen but stay calm
 
-prototyping, tools and hiring good grugs better key to success: agile process ok and help some but sometimes hurt if taken
-too seriously
+prototyping, tools and hiring good grugs better key to success: agile process ok and help some but sometimes hurt taken
+too seriously, never silver club
 
 # <a name="grug-on-refactoring"></a>[Refactoring](#grug-on-refactoring)
 
