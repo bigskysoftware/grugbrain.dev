@@ -495,7 +495,7 @@ note: important to make thinking face and look big brained when saying though.  
 much more common, *thinks* is big brain to make fun.  be strong! no fold!  club sometimes useful here, but more often sense
 of humor and especially last failed project by big brain very useful, so collect
 
-# <a name="grug-on-imposter-syndrom"></a>[Reads](#grug-on-imposter-syndrom)
+# <a name="grug-on-imposter-syndrom"></a>[Impostor Syndrome](#grug-on-imposter-syndrom)
 
 grug note many such impostor feels in development
 
