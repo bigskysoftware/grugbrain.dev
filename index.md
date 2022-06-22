@@ -474,26 +474,26 @@ react better for job, but also you become alcolyte of complexity demon whether y
 
 grug note lots of fads in development, especially front end development today
 
-back end better more boring because all bad ideas have been tried at this point maybe (still retry some!)
+back end better more boring because all bad ideas have tried at this point maybe (still retry some!)
 
 still trying all bad ideas in front end development so still much change and hard to know
 
 grug recommend taking all revolutionary new approach with grain salt: big brains have working for long 
-time on computers now, most ideas have been tried at least once.  grug not saying can't learn new tricks on no good
-new ideas , but also a lot of time wasted on recycled bad ideas, lots of spirit complexity demon power come from putting 
+time on computers now, most ideas have tried at least once.  grug not saying can't learn new tricks on no good
+new ideas, but also much of time wasted on recycled bad ideas, lots of spirit complexity demon power come from putting 
 new idea willy nilly into code base
 
 note!  very good if senior grug willing to say publicly: "hmmm, this too complex for grug"!
 
-many developers Fear Of Looking Dumb (FOLD), grug also at one time fold, but grug learn get over:  important grug say
-"this too complicated and confuse"  this make it ok for junior grugs to admit too complex not understand as well.  FOLD
-major source of complexity demon power over developer especially younger grugs!  
+many developers Fear Of Looking Dumb (FOLD), grug also at one time fold, but grug learn get over:  important senior grug say
+"this too complicated and confuse"  this make it ok for junior grugs to admit too complex not understand as well!  FOLD
+major source of complexity demon power over developer, especially younger grugs!  
 
-take power away, very good!
+take FOLD power away, very good senior grug!
 
-important to make thinking face and look big brained when saying.  be prepared for big brain or, worse and more common, 
-*thinks* is big brain to make fun.  be strong! no fold!  club sometimes useful here, but more often sense of humor and 
-especially last failed project by big brain very useful, so collect
+note: important to make thinking face and look big brained when saying though.  be prepare for big brain or, worse and
+much more common, *thinks* is big brain to make fun.  be strong! no fold!  club sometimes useful here, but more often sense
+of humor and especially last failed project by big brain very useful, so collect
 
 # <a name="grug-reads"></a>[Reads](#grug-reads)
 
