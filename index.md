@@ -124,14 +124,14 @@ grug quite satisfied when complexity demon trapped properly in crystal, is best 
 
 grug try watch patiently as cut points emerge from code and slowly refactor, with code base taking shape over time along
 with experience.  no hard/ fast rule for this: grug know cut point when grug see cut point, just take time to build 
-skill in seeing patience
+skill in seeing, patience
 
 sometimes grug go too early and get abstractions wrong, so grug bias towards waiting
 
 big brain developers often not like this at all and invent many abstractions start of project
 
 grug tempted to reach for club and yell "big brain no maintain code!  big brain move on next architecture committee
-leave code for grud deal with!"
+leave code for grug deal with!"
 
 but grug learn control passions, major difference between grug and animal
 
