@@ -24,14 +24,14 @@ because as grug brain developer get older he forget important things, like what 
 
 big brained developers are many, and some not expected to like this sour face
 
-*THINK* they are big brained developers many, many more, and many more even definitely not like this
+*THINK* they are big brained developers many, many more, and many more even definitely probably not like this
 
-(grug once thing big brained but learn hard way)
+(grug once think big brained but learn hard way)
 
 is fine!
 
 is free country sort of and end of day not really matter too much, but grug hope you fun reading and maybe learn from
- many, many mistakes grug make over long program life
+ many, many mistake grug make over long program life
 
 # <a name="grug-on-complexity"></a>[The Eternal Enemy: Complexity](#grug-on-complexity)
 
@@ -472,25 +472,28 @@ react better for job, but also you become alcolyte of complexity demon whether y
 
 # <a name="grug-on-fads"></a>[Fads](#grug-on-fads)
 
-grug note lots of fads in development, especially front end development  
+grug note lots of fads in development, especially front end development today
 
 back end better more boring because all bad ideas have been tried at this point maybe (still retry some!)
 
 still trying all bad ideas in front end development so still much change and hard to know
 
-grug recommend taking all revolutionary new approach with grain of salt: big brains have working for long 
-time on computers now, most ideas have been tried at least once.  grug not saying can't learn new tricks, but also
-a lot of time wasted on recycled bad ideas, lots of spirit complexity demon power come from putting new idea willy
-nilly into code base
+grug recommend taking all revolutionary new approach with grain salt: big brains have working for long 
+time on computers now, most ideas have been tried at least once.  grug not saying can't learn new tricks on no good
+new ideas , but also a lot of time wasted on recycled bad ideas, lots of spirit complexity demon power come from putting 
+new idea willy nilly into code base
 
 note!  very good if senior grug willing to say publicly: "hmmm, this too complex for grug"!
 
-many developers fear looking dumb, grug also at one time, but grug learn:  this make it ok for junior grugs to admit too
-complex not understand as well.  Now complexity demon has no power over them!  good!
+many developers Fear Of Looking Dumb (FOLD), grug also at one time fold, but grug learn get over:  important grug say
+"this too complicated and confuse"  this make it ok for junior grugs to admit too complex not understand as well.  FOLD
+major source of complexity demon power over developer especially younger grugs!  
+
+take power away, very good!
 
 important to make thinking face and look big brained when saying.  be prepared for big brain or, worse and more common, 
-*thinks* is big brain to make fun.  be strong!  club sometimes useful here, but more often sense of humor and especially
-last failed project by big brain very useful, so collect
+*thinks* is big brain to make fun.  be strong! no fold!  club sometimes useful here, but more often sense of humor and 
+especially last failed project by big brain very useful, so collect
 
 # <a name="grug-reads"></a>[Reads](#grug-reads)
 
