@@ -98,23 +98,24 @@ in this situation, grug recommend "ok"
 
 "ok, grug build that feature"
 
-then grug spend time think of 80/20 solution to problem and build that instead.  80/20 solution say "we get 80 want at 
-20 code"  Solution not have all bell-whistle that project manager want, maybe a little ugly, but work and deliver most 
-value, and keep complexity spirit at bay for most part
+then grug spend time think of [80/20 solution](https://en.wikipedia.org/wiki/Pareto_principle) to problem and build that instead.  
+80/20 solution say "80 want witht 20 code"  Solution not have all bell-whistle that project manager want, maybe a little ugly, but work and deliver most 
+value, and keep demon complexity spirit at bay for most part to extent
 
-sometimes probably best just not tell project manager and do it 80/20 way.  easier forgive than permission, and project managers
-mind like butterfly at times often forget what even supposed to do or move on or get fired
+sometimes probably best just not tell project manager and do it 80/20 way.  easier forgive than permission, project managers
+mind like butterfly at times overworked and dealing with many grugs.  often forget what even feature supposed to do or move on or 
+quit or get fired grug see many such cases
 
-grug see many such cases
+anyway is in project managers best interest anyway so grug not to feel too bad for this approach usually
 
 ## <a name="grug-on-factring-your-code"></a>[Factoring Your Code](#grug-on-factring-your-code)
 
-next strategy is harder: break code base up properly (fancy word: "factor your code properly")  here is hard give general
+next strategy very harder: break code base up properly (fancy word: "factor your code properly")  here is hard give general
 advice because each system so different.  however, one thing grug come to believe: not factor your application too early!
 
 early on in project everything very abstract and like water: very little solid holds for grug's struggling brain to hang 
 on to.  take time to develop "shape" of system and learn what even doing.  grug try not to factor in early part of project
-and then, at some point, good cut-points emerge from code base  
+and then, at some point, good cut-points emerge from code base
 
 good cut point has narrow interface with rest of system: small number of functions or abstractions that hide complexity
 demon internally, like trapped in crystal
@@ -123,13 +124,14 @@ grug quite satisfied when complexity demon trapped properly in crystal, is best 
 
 grug try watch patiently as cut points emerge from code and slowly refactor, with code base taking shape over time along
 with experience.  no hard/ fast rule for this: grug know cut point when grug see cut point, just take time to build 
-skill in seeing
+skill in seeing patience
 
 sometimes grug go too early and get abstractions wrong, so grug bias towards waiting
 
 big brain developers often not like this at all and invent many abstractions start of project
 
-grug tempted to reach for club and yell "big brain no maintain code!  big brain move on next architecture committee!" 
+grug tempted to reach for club and yell "big brain no maintain code!  big brain move on next architecture committee
+leave code for grud deal with!"
 
 but grug learn control passions, major difference between grug and animal
 
@@ -140,11 +142,12 @@ working demo especially good trick: force big brain make something to actually w
 thing, will help big brain see reality on ground more quickly
 
 remember!  big brain have big brain!  need only be harness for good and not in service of spirit complexity demon on 
-accident many times
+accident many times seen
 
-(best grug brain able to herd multiple big brain in right direction and produce many complexity demon trap crystals)
+(best grug brain able to herd multiple big brain in right direction and produce many complexity demon trap crystals, large
+shiney rock pile!)
 
-also sometimes call demo approach "prototype", sound fancier to elders
+also sometimes call demo approach "prototype", sound fancier to elder 
 
 grug say prototype early in software making, _especially_ if many big brains
 
@@ -153,45 +156,51 @@ grug say prototype early in software making, _especially_ if many big brains
 grug have love/hate relationship with test: test save grug many, many uncountable time and grug love and respect test  
 
 unfortunately also test shamans exist.  test shaman make test idol, demand things like "first test" before grug even write 
-code or have any idea what grug doing!  
+code or have any idea what grug doing domain!  
 
-how grug test what grug not even understand?
+how grug test what grug not even understand domain?
 
 "Oh, don't worry: the tests will show you what you need to do."
 
 grug once again slowly reaching for club, but grug stay calm
 
-grug instead prefer write tests after prototype phase, when code has begun firm up
+grug instead prefer write most tests after prototype phase, when code has begun firm up
 
 but, note well: grug must here be very disciplined!  
 
 easy grug to move on and not write tests because "work on grugs machine"!
 
-this bad: no guarantee work on other machine and no guarantee work on grug machine in future, many times
+this veru bad: no guarantee work on other machine and no guarantee work on grug machine in future, many times
 
 test shaman have good point on importance of test, even if test shaman often sometimes not complete useful
-feature in life and talk only about test all time, deserve of club
+feature in life and talk only about test all time, deserve of club but heart in right place
 
 also, test shaman often talk unit test very much, but grug not find so useful.  grug experience that ideal tests are not 
 unit test or either end-to-end test, but in-between test
 
-unit tests fine, ok, but break and make refactor hard as API change and, frankly, not too useful many bugs anyway, often
-throw away
+[unit tests](https://en.wikipedia.org/wiki/Unit_testing) fine, ok, but break and make refactor hard as API change and, frankly, 
+not too useful many bugs anyway often, often throw away when code change.  write unit test mostly at start of project 
+help get things going but not get attached
 
-end to end tests good, show system work, but hard to understand when break and drive grug crazy very often, sometimes
-grugs just end up ignoring because "oh, that break all time."  very bad.
+[end to end](https://smartbear.com/solutions/end-to-end-testing/) tests good, show whole system work, but! hard to 
+understand when break and drive grug crazy very often, sometimes grugs just end up ignoring because "oh, that break all 
+time"  very bad!
 
-in-between tests, grug hear shaman call "integration tests" sometime often with sour look on face. grug say integration test
-are sweet spot according to grug: high level enough test correctness of system, low level enough, with good debugger,
-easy to see what break
+in-between tests, grug hear shaman call ["integration tests"](https://en.wikipedia.org/wiki/Integration_testing) sometime 
+often with sour look on face. but grug say integration test sweet spot according to grug: high level enough test correctness 
+of system, low level enough, with good debugger, easy to see what break
 
-grug prefer some unit tests but not too serious, many more focus integration test as cut point emerge, and 
-small, curated end-to-end test suite that is kept working religiously on pain of clubbing.  focus end-to-end test on most 
-common UI features and few important edge cases
+grug prefer some unit tests especially at start but not 100% all code test and definitely not first test.  many more focus
+ferocious integration test as cut point emerge and system stabilize! also small, curated end-to-end test suite that is kept 
+working religiously on pain of clubbing. focus of important end-to-end test on most common UI features and few most important
+edge cases, but not too many or become impossible maintain
 
-this ideal set of test.  you may not like, but this peak testing
+this ideal set of test to grug
 
-grug think mocks make mockery of testing no prefer only when have to (rare) and coarse grain at that
+you may not like, but this peak grug testing
+
+also, grug think [mocking](https://en.wikipedia.org/wiki/Mock_object) make mockery of testing no prefer only when have
+to (rare/never) and coarse grain mocking only at that
 
 # <a name="grug-on-agile"></a>[Agile](#grug-on-agile)
 
@@ -202,14 +211,12 @@ end of day, not worst way to organize development, maybe better than others grug
 danger, however, is agile shaman!  many, many shiney rock lost to agile shaman!
 
 whenever project fail, agile shaman say "you didn't do agile right!"  grug note this awfully convenient for agile
-shaman, ask more shiney rock better agile train young grugs on agile
+shaman, ask more shiney rock better agile train young grugs on agile, danger!
 
-danger!
+grug tempted reach for club when too much agile talk happen but always stay calm
 
-grug tempted reach for club when too much agile talk happen but stay calm
-
-prototyping, tools and hiring good grugs better key to success: agile process ok and help some but sometimes hurt taken
-too seriously, never silver club
+prototyping, tools and hiring good grugs better key to success software: agile process ok and help some but sometimes hurt taken
+too seriously, never silver club no matter what agile shaman say (danger!)
 
 # <a name="grug-on-refactoring"></a>[Refactoring](#grug-on-refactoring)
 
@@ -232,6 +239,24 @@ another good example when company grug work for introduce [OSGi](https://www.tec
 manage/trap spriit complexity demon in code base.  not only OSGi not help, but make complexity demon much more powerful!
 took multiple man year of best developers to rewor as well boot!  more complex spirit and now features impossible implement
 very bad!
+
+# <a name="grug-on-chestertons-fence"></a>[Chesterton's Fence](#grug-on-chestertons-fence)
+
+wise grug shaman [chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) once say 
+
+> here exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, “I don’t see the use of this; let us clear it away.” To which the more intelligent type of reformer will do well to answer: “If you don’t see the use of it, I certainly won’t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.”
+
+many older grug learn this lesson well not start tearing code out willy nilly, no matter how ugly look
+
+grug understand all programmer platonists at some level wish music of spheres perfection in code.  but danger is here,
+world is ugly and gronky many times and code so also must.  humility not often come big brained or think big brained 
+easily or grug even, but grug often find "oh, grug no like look of this, grug fix" lead many hours pain grug and no better or system
+worse even.  grug early on often charge into code base waving club wildly and smash up everything, learn not good
+
+grug not say no improve system ever, quite foolish, but recommend take time understand system first especially bigger system is and
+respected code working today even if not perfect
+
+here tests often good hint for why fence not to be smashed!
 
 # <a name="grug-on-microservices"></a>[Microservices](#grug-on-microservices)
 
