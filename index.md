@@ -495,6 +495,21 @@ note: important to make thinking face and look big brained when saying though.  
 much more common, *thinks* is big brain to make fun.  be strong! no fold!  club sometimes useful here, but more often sense
 of humor and especially last failed project by big brain very useful, so collect
 
+# <a name="grug-on-imposter-syndrom"></a>[Reads](#grug-on-imposter-syndrom)
+
+grug note many such impostor feels in development
+
+always grug one of two states: grug is ruler of all survey, wield code club like thor OR grug have no idea what doing
+
+grug is mostly latter state most times, hide it pretty well though
+
+now, grug make softwares of much work and moderate open source success, and yet grug himself often feel not any
+idea what doing!  very often!  fear make mistake break everyone code and disappoint other grugs!
+
+is maybe nature of programming for most and be ok with is best, nobody imposter if everybody imposter
+
+any young grug read this far probably do fine in program career even if frustrations and worry is always to be there, sorry
+
 # <a name="grug-reads"></a>[Reads](#grug-reads)
 
 grug like these:
