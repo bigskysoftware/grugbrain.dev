@@ -142,12 +142,12 @@ working demo especially good trick: force big brain make something to actually w
 thing, will help big brain see reality on ground more quickly
 
 remember!  big brain have big brain!  need only be harness for good and not in service of spirit complexity demon on 
-accident many times seen
+accident, many times seen
 
 (best grug brain able to herd multiple big brain in right direction and produce many complexity demon trap crystals, large
 shiney rock pile!)
 
-also sometimes call demo approach "prototype", sound fancier to elder 
+also sometimes call demo approach "prototype", sound fancier to project manager
 
 grug say prototype early in software making, _especially_ if many big brains
 
@@ -155,14 +155,14 @@ grug say prototype early in software making, _especially_ if many big brains
 
 grug have love/hate relationship with test: test save grug many, many uncountable time and grug love and respect test  
 
-unfortunately also test shamans exist.  test shaman make test idol, demand things like "first test" before grug even write 
-code or have any idea what grug doing domain!  
+unfortunately also many test shamans exist.  some test shaman make test idol, demand things like "first test" before grug
+even write code or have any idea what grug doing domain!  
 
-how grug test what grug not even understand domain?
+how grug test what grug not even understand domain!?
 
 "Oh, don't worry: the tests will show you what you need to do."
 
-grug once again slowly reaching for club, but grug stay calm
+grug once again catch grug slowly reaching for club, but grug stay calm
 
 grug instead prefer write most tests after prototype phase, when code has begun firm up
 
