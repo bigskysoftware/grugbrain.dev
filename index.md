@@ -273,7 +273,9 @@ have dig around ask other developers help, no docs
 
 code completion in IDE allow grug not have remembered all API very important!  
 
-java programming nearly impossible without it for grug. really make grug think some time
+java programming nearly impossible without it for grug!
+
+really make grug think some time
 
 good debugger worth weight in shiney rocks, in fact also more: when faced with bug grug would often trade all shiney rock and
 perhaps few children for good debugger and anyway debugger no weigh anything far as grug can tell  
