@@ -254,7 +254,7 @@ wise grug shaman [chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) on
 many older grug learn this lesson well not start tearing code out willy nilly, no matter how ugly look
 
 grug understand all programmer platonists at some level wish music of spheres perfection in code.  but danger is here,
-world is ugly and gronky many times and code also must so be
+world is ugly and gronky many times and so also must code be
 
 humility not often come big brained or think big brained 
 easily or grug even, but grug often find "oh, grug no like look of this, grug fix" lead many hours pain grug and no better or system
