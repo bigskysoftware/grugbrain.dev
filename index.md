@@ -269,7 +269,7 @@ seem very confusing to grug
 grug love tool.  tool and control passion what separate grug from dinosaurs!  tool allow grug brain to create code that 
 not possible otherwise by doing thinking for grug, always good relief! grug always spend time in new place learning 
 tools around him to maximize productivity: learn tools for two weeks make development often twice faster and often
-have dig around other developers help no docs
+have dig around ask other developers help, no docs
 
 code completion in IDE allow grug not have remembered all API very important!  
 
