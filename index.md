@@ -158,7 +158,7 @@ grug have love/hate relationship with test: test save grug many, many uncountabl
 unfortunately also many test shamans exist.  some test shaman make test idol, demand things like "first test" before grug
 even write code or have any idea what grug doing domain!  
 
-how grug test what grug not even understand domain!?
+how grug test what grug not even understand domain yet!?
 
 "Oh, don't worry: the tests will show you what you need to do."
 
