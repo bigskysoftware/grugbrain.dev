@@ -451,7 +451,7 @@ nobody care about "stream" or even hear of "stream" before, is not networking ap
 some non-grugs, when faced with web development say: 
 
 "I know, I'll split my front end and back end codebase up and use &lt;hot new SPA library&gt; talking to a GraphQL JSON API back end
-over HTTP, which is funny because I'm not transfering hypertext, but whatevs..."
+over HTTP, which is funny because I'm not transfering hypertext, but whatever..."
 
 now you have two complexity demon spirit lairs
 
