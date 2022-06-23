@@ -199,8 +199,8 @@ this ideal set of test to grug
 
 you may not like, but this peak grug testing
 
-also, grug think [mocking](https://en.wikipedia.org/wiki/Mock_object) make mockery of testing no prefer only when have
-to (rare/never) and coarse grain mocking only at that
+also, grug dislike [mocking](https://en.wikipedia.org/wiki/Mock_object) in test, prefer only when absolute necessary
+to (rare/never) and coarse grain mocking (cut points/systems) only at that
 
 # <a name="grug-on-agile"></a>[Agile](#grug-on-agile)
 
