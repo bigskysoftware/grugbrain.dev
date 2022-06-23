@@ -302,7 +302,10 @@ big brain type system shaman often say type correctness main point type system, 
 shaman not often ship code.  grug suppose code never shipped is correct, in some sense, but not really what grug mean
 when say correct!
 
-also danger abstraction too high, and big brain code become astral projection of platonic generic turing model of 
+grug say tool magic pop up what can do and complete of code major benefit of type system, correctness also good but not 
+so much as tool helper or much as big brain think
+
+also beware: danger abstraction too high, and big brain type code become astral projection of platonic generic turing model of 
 computation into code base.  grug confused and agree some level very elegant but also very hard do anything like 
 record number of club inventory for Grug Inc. task at hand
 
