@@ -190,10 +190,15 @@ in-between tests, grug hear shaman call ["integration tests"](https://en.wikiped
 often with sour look on face. but grug say integration test sweet spot according to grug: high level enough test correctness 
 of system, low level enough, with good debugger, easy to see what break
 
-grug prefer some unit tests especially at start but not 100% all code test and definitely not first test.  many more focus
-ferocious integration test as cut point emerge and system stabilize! also small, curated end-to-end test suite that is kept 
-working religiously on pain of clubbing. focus of important end-to-end test on most common UI features and few most important
-edge cases, but not too many or become impossible maintain
+grug prefer some unit tests especially at start but not 100% all code test and definitely not "first test".  "test along"
+ok work well for grug, especially as grug figure things out.
+
+grug focus much ferocious integration test effort as cut point emerge and system stabilize!  cut point api hopefully stable
+compared implementation and integration test remain valuable many long time, and easy debug
+
+also small, well curated end-to-end test suite is created to be kept working religiously on pain of clubbing. focus of important 
+end-to-end test on most common UI features and few most important edge cases, but not too many or become impossible maintain
+and then ignored
 
 this ideal set of test to grug
 
