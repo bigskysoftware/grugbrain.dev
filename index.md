@@ -145,7 +145,7 @@ remember!  big brain have big brain!  need only be harness for good and not in s
 accident, many times seen
 
 (best grug brain able to herd multiple big brain in right direction and produce many complexity demon trap crystals, large
-shiney rock pile!)
+shiney rock pile awaits such grug!)
 
 also sometimes call demo approach "prototype", sound fancier to project manager
 
