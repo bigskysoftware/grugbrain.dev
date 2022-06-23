@@ -431,7 +431,7 @@ grug call this "layering" apis: two or three different apis at different level c
 
 also, if object oriented, put api on thing instead of elsewhere. java worst at this!  
 
-grug want filter list:
+grug want filter list in java
 
 "Did you convert it to a stream?"
 
@@ -441,13 +441,17 @@ fine, grug convert to stream
 
 OK, but now need return list!  have stream!  
 
-"Did you collect it in a list?"
+"Well, did you collect your stream into a list?"
 
-grug hand reaching for club yet again, control
+what?
 
-put common thing like `filter()` on list and make return list big brain java api developer!  
+"Define a Collector&lt;? super T, A, R&gt; to collect your stream into a list"
 
-nobody care about "stream" or even hear of "stream" before, is not networking api big brain!  all java developer use list!
+grug now swear on ancestor grave he club every single person in room, but count two instead and remain calm
+
+put common thing like `filter()` on list and make return list, listen well big brain java api developer!  
+
+nobody care about "stream" or even hear of "stream" before, is not networking api, all java grugs use list mr big brain!  
 
 # <a name="grug-on-front-end-development"></a>[Front End Development](#grug-on-front-end-development)
 
