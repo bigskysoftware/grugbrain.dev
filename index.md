@@ -22,7 +22,7 @@ although mostly still confused
 grug brain developer try collect learns into small, easily digestible and funny page, not only for you, the young grug, but also for him
 because as grug brain developer get older he forget important things, like what had for breakfast or if put pants on
 
-big brained developers are many, and some not expected to like this sour face
+big brained developers are many, and some not expected to like this make sour face
 
 *THINK* they are big brained developers many, many more, and many more even definitely probably not like this
 
