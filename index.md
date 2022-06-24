@@ -547,8 +547,10 @@ any young grug read this far probably do fine in program career even if frustrat
 grug like these:
 
 * [Worse is Better](https://www.dreamsongs.com/WorseIsBetter.html)
+* [Worse is Better is Worse](https://www.dreamsongs.com/Files/worse-is-worse.pdf)
+* [Is Worse Really Better?](https://www.dreamsongs.com/Files/IsWorseReallyBetter.pdf)
 * [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design)
 
 # <a name="lol-lmao"></a>[Conclusion](#lol-lmao)
 
-complexity *very*, *very* bad
+_you_ say: complexity *very*, *very* bad
