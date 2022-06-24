@@ -303,9 +303,9 @@ but beware big brains here!
 
 some type big brain think in type systems and talk in lemmas, can be very dangerous!
 
-big brain type system shaman often say type correctness main point type system, but grug note big brain type system 
+big brain type system shaman often say type correctness main point type system, but grug note some big brain type system 
 shaman not often ship code.  grug suppose code never shipped is correct, in some sense, but not really what grug mean
-when say correct!
+when say correct
 
 grug say tool magic pop up what can do and complete of code major benefit of type system, correctness also good but not 
 so much as tool helper or much as big brain think
@@ -499,21 +499,30 @@ back end better more boring because all bad ideas have tried at this point maybe
 still trying all bad ideas in front end development so still much change and hard to know
 
 grug recommend taking all revolutionary new approach with grain salt: big brains have working for long 
-time on computers now, most ideas have tried at least once.  grug not saying can't learn new tricks or no good
-new ideas, but also much of time wasted on recycled bad ideas, lots of spirit complexity demon power come from putting 
-new idea willy nilly into code base
+time on computers now, most ideas have tried at least once
+
+grug not saying can't learn new tricks or no good new ideas, but also much of time wasted on recycled bad ideas, lots of
+spirit complexity demon power come from putting new idea willy nilly into code base
+
+# <a name="grug-on-fold"></a>[Fear Of Looking Dumb](#grug-on-fold)
 
 note!  very good if senior grug willing to say publicly: "hmmm, this too complex for grug"!
 
-many developers Fear Of Looking Dumb (FOLD), grug also at one time fold, but grug learn get over:  important senior grug say
-"this too complicated and confuse"  this make it ok for junior grugs to admit too complex not understand as well!  FOLD
-major source of complexity demon power over developer, especially younger grugs!  
+many developers Fear Of Looking Dumb (FOLD), grug also at one time FOLD, but grug learn get over: very important senior 
+grug say "this too complicated and confuse to me"
 
-take FOLD power away, very good senior grug!
+this make it ok for junior grugs to admit too complex and not understand as well, often such case!  FOLD major source of 
+complexity demon power over developer, especially young grugs!  
+
+take FOLD power away, very good of senior grug!
 
 note: important to make thinking face and look big brained when saying though.  be prepare for big brain or, worse and
-much more common, *thinks* is big brain to make fun.  be strong! no fold!  club sometimes useful here, but more often sense
-of humor and especially last failed project by big brain very useful, so collect
+much more common, *thinks* is big brain to make snide remark of grug
+
+be strong! no FOLD!  
+
+club sometimes useful here, but more often sense of humor and especially last failed project by big brain very useful, 
+so collect and be calm
 
 # <a name="grug-on-imposter-syndrom"></a>[Impostor Syndrome](#grug-on-imposter-syndrom)
 
