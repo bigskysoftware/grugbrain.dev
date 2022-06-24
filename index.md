@@ -190,8 +190,8 @@ in-between tests, grug hear shaman call ["integration tests"](https://en.wikiped
 often with sour look on face. but grug say integration test sweet spot according to grug: high level enough test correctness 
 of system, low level enough, with good debugger, easy to see what break
 
-grug prefer some unit tests especially at start but not 100% all code test and definitely not "first test".  "test along"
-ok work well for grug, especially as grug figure things out.
+grug prefer some unit tests especially at start but not 100% all code test and definitely not "first test".  "test along
+the way" work pretty well for grug, especially as grug figure things out
 
 grug focus much ferocious integration test effort as cut point emerge and system stabilize!  cut point api hopefully stable
 compared implementation and integration test remain valuable many long time, and easy debug
@@ -206,6 +206,9 @@ you may not like, but this peak grug testing
 
 also, grug dislike [mocking](https://en.wikipedia.org/wiki/Mock_object) in test, prefer only when absolute necessary
 to (rare/never) and coarse grain mocking (cut points/systems) only at that
+
+one exception "first test" dislike by grug: when bug found.  grug always try first reproduce bug with regression test 
+_then_ fix bug, this case only for some reason work better
 
 # <a name="grug-on-agile"></a>[Agile](#grug-on-agile)
 
