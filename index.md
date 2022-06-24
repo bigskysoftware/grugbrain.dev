@@ -366,7 +366,7 @@ used by javascript libraries very sad but also javascript developer get what des
 
 # <a name="grug-on-logging"></a>[Logging](#grug-on-logging)
 
-grug huge fan of logging and encourage lots of it, especially in cloud deployments.  some non-grugs say logging expensive
+grug huge fan of logging and encourage lots of it, especially in cloud deployed.  some non-grugs say logging expensive
 and not important.  grug used think this way no more
 
 funny story: grug learn idol [rob pike](https://en.wikipedia.org/wiki/Rob_Pike) working on logging at google and decide: 
