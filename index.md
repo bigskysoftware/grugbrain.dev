@@ -99,8 +99,8 @@ in this situation, grug recommend "ok"
 "ok, grug build that feature"
 
 then grug spend time think of [80/20 solution](https://en.wikipedia.org/wiki/Pareto_principle) to problem and build that instead.  
-80/20 solution say "80 want with 20 code"  solution not have all bell-whistle that project manager want, maybe a little ugly, but work and deliver most 
-value, and keep demon complexity spirit at bay for most part to extent
+80/20 solution say "80 want with 20 code"  solution maybe not have all bell-whistle that project manager want, maybe a 
+little ugly, but work and deliver most value, and keep demon complexity spirit at bay for most part to extent
 
 sometimes probably best just not tell project manager and do it 80/20 way.  easier forgive than permission, project managers
 mind like butterfly at times overworked and dealing with many grugs.  often forget what even feature supposed to do or move on or 
