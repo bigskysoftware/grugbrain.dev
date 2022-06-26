@@ -22,7 +22,7 @@ although mostly still confused
 grug brain developer try collect learns into small, easily digestible and funny page, not only for you, the young grug, but also for him
 because as grug brain developer get older he forget important things, like what had for breakfast or if put pants on
 
-big brained developers are many, and some not expected to like this make sour face
+big brained developers are many, and some not expected to like this, make sour face
 
 *THINK* they are big brained developers many, many more, and many more even definitely probably not like this
 
@@ -178,9 +178,10 @@ feature in life and talk only about test all time, deserve of club but heart in 
 also, test shaman often talk unit test very much, but grug not find so useful.  grug experience that ideal tests are not 
 unit test or either end-to-end test, but in-between test
 
-[unit tests](https://en.wikipedia.org/wiki/Unit_testing) fine, ok, but break and make refactor hard as API change and, frankly, 
-not too useful many bugs anyway often, often throw away when code change.  write unit test mostly at start of project 
-help get things going but not get too attached
+[unit tests](https://en.wikipedia.org/wiki/Unit_testing) fine, ok, but break as implementation change (much compared api!)
+and make refactor hard and, frankly, many bugs anyway often due interactions other code.  often throw away when code change.  
+
+grug write unit test mostly at start of project, help get things going but not get too attached or expect value long time
 
 [end to end](https://smartbear.com/solutions/end-to-end-testing/) tests good, show whole system work, but! hard to 
 understand when break and drive grug crazy very often, sometimes grugs just end up ignoring because "oh, that break all 
