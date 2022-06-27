@@ -494,6 +494,59 @@ maybe they work for you, but no job post, sorry
 react better for job and also some type application, but also you become alcolyte of complexity demon whether you like 
 or no, sorry such is front end life
 
+# <a name="grug-on-optimizing"></a>[Optimizing](#grug-on-optimizing)
+
+ultra biggest brain developer once say:
+
+> premature optimization is the root of all evil
+
+this everyone mostly know and grug here agree with much violence and all humility with ultra big brain
+
+recommend always to have concrete, real world profile showing specific perf issue before begin optimizing, never know what actual
+issue might be, grug often surprise.  beware only cpu burn of focus: easy to see and much big o notation thinking having 
+been done in school but often not root of all slowness, surprise to many  
+
+hitting network equivalent of many, many millions cpu cycle and always to be minimized if possible, note well big brain 
+microservice developer!
+
+inexperienced big brain developer often see nested loop and say "O(n^2)?  Not on my watch!"
+
+complexity demon spirit smile
+
+# <a name="grug-on-dry"></a>[DRY](#grug-on-dry)
+
+[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) mean Don't Repeat Self (grug not sure about Y, why not DRS, 
+anyway) and powerful maxim over mind of most developers
+
+grug respect DRY and good advice, but recommend balance in all things as gruggest of big brains aristotle recommend
+
+grug note humourous graph by Lea Verou correspond with grug passion not repeat:
+
+<img alt="code concerns over time" src="over-time.png" style="margin-20px; clear: both"/>
+
+over time past ten snows grug not as concerned repeat code so long as repeat code simple enough and obvious enough, and grug begin
+feel repeat/copy paste code with small variation better than many callback/closures or elaborate object model 
+encapsulate difference: too hard complex for too little benefit at times
+
+always hard balance here, and repeat code always make grug stare and say "mmm" often, but experience show repeat code
+not always worse than potential solution
+
+also grug encourage over literal developer not take does work line too serious, is joke
+
+# <a name="grug-on-soc"></a>[Separation of Concerns (SoC)](#grug-on-soc)
+
+[Separation of Concern (SoC)](https://en.wikipedia.org/wiki/Separation_of_concerns) another powerful idea over many developer
+mind, idea to separate different aspects of system into distinct sections code
+
+canonical example from web development is separation of style (css file), markup (html file) and logic (javascript file)
+
+here grug much more sour faced than DRY and in fact attempt write big brained essay on alternative design principle
+[locality of behavior (LoB)](https://htmx.org/essays/locality-of-behaviour/) fight against SoC
+
+grug prefer put code on the thing that do thing so when grug look at thing grug know what thing that thing do!  when 
+separate grug must all over tarnation look to understand what button do, much confuse and time waste: how this button
+do?
+
 # <a name="grug-on-fads"></a>[Fads](#grug-on-fads)
 
 grug note lots of fads in development, especially front end development today
