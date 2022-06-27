@@ -617,7 +617,7 @@ now, grug make softwares of much work and [moderate open source success](https:/
 , and yet grug himself often feel not any idea what doing!  very often!  grug still fear make mistake break everyone code and 
 disappoint other grugs, imposter!
 
-is maybe nature of programming for most grug and be ok with is best: nobody imposter if everybody imposter
+is maybe nature of programming for most grug to feel impostor and be ok with is best: nobody imposter if everybody imposter
 
 any young grug read this far probably do fine in program career even if frustrations and worry is always to be there, sorry
 
