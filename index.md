@@ -462,6 +462,29 @@ put common thing like `filter()` on list and make return list, listen well big b
 
 nobody care about "stream" or even hear of "stream" before, is not networking api, all java grugs use list mr big brain!  
 
+# <a name="grug-on-parsing"></a>[Parsing](#grug-on-parsing)
+
+grug love make programming language drop of hat and 
+say [recursive descent](https://en.wikipedia.org/wiki/Recursive_descent_parser)
+most fun and beautiful way create parser
+
+unfortunately many big brain school teach only parser generator tool.  here grug usual love of tool is not: generate code 
+of awful snakes nest, impossible understand, bottom up, what?  hide recursive nature of grammar from student and debug
+impossible, very bad according grug!
+
+grug think this because while complexity demon bad for code base and understand, complexity demon good for generation
+of much academic papers, sad but true
+
+most production parser recursive descent/top down, despite ignore by schools, grug furious when learn how simple parse
+is when working on industry, parsing not big brain only magic so can you!
+
+grug very elated find big brain developer Bob Nystrom write excellent book on recursive descent: 
+
+[Crafting Interpreters](https://craftinginterpreters.com/)
+
+book available online free, but grug highly recommend all interested grugs purchase book on general principle, provide
+much big brain advice and grug love book _very_ much except visitor pattern (trap!)
+
 # <a name="grug-on-front-end-development"></a>[Front End Development](#grug-on-front-end-development)
 
 some non-grugs, when faced with web development say: 
