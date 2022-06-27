@@ -522,7 +522,7 @@ grug respect DRY and good advice, but recommend balance in all things as grugges
 
 grug note humourous graph by Lea Verou correspond with grug passion not repeat:
 
-<img alt="code concerns over time" src="over-time.png" style="margin-20px; clear: both"/>
+<img alt="code concerns over time" src="over-time.png" style="width: 100%; clear: both"/>
 
 over time past ten snows grug not as concerned repeat code so long as repeat code simple enough and obvious enough, and grug begin
 feel repeat/copy paste code with small variation better than many callback/closures or elaborate object model 
