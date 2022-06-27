@@ -543,9 +543,10 @@ canonical example from web development is separation of style (css file), markup
 here grug much more sour faced than DRY and in fact attempt write big brained essay on alternative design principle
 [locality of behavior (LoB)](https://htmx.org/essays/locality-of-behaviour/) fight against SoC
 
-grug prefer put code on the thing that do thing so when grug look at thing grug know what thing that thing do!  when 
-separate grug must all over tarnation look to understand what button do, much confuse and time waste: how this button
-do?
+grug prefer put code on the thing that do thing so when grug look at thing grug know what thing that thing do!  
+
+when separate grug must all over tarnation many file look understand what button do, much confuse and time waste: how 
+this button do!?!
 
 # <a name="grug-on-fads"></a>[Fads](#grug-on-fads)
 
