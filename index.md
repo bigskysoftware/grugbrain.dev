@@ -16,7 +16,7 @@ layout: layout.njk
 
 this collection of thoughts on software development gathered by grug brain developer
 
-grug brain developer not very smart, but grug brain developer program many long year and learn some things
+grug brain developer not so smart, but grug brain developer program many long year and learn some things
 although mostly still confused
 
 grug brain developer try collect learns into small, easily digestible and funny page, not only for you, the young grug, but also for him
@@ -24,9 +24,10 @@ because as grug brain developer get older he forget important things, like what 
 
 big brained developers are many, and some not expected to like this, make sour face
 
-*THINK* they are big brained developers many, many more, and many more even definitely probably not like this
+*THINK* they are big brained developers many, many more, and more even definitely probably maybe not like this, many
+sour face (such is internet)
 
-(grug once think big brained but learn hard way)
+(note: grug once think big brained but learn hard way)
 
 is fine!
 
@@ -56,7 +57,7 @@ one day code base understandable and grug can get work done, everything good!
 
 next day impossible: complexity demon spirit has entered code and very dangerous situation!  
 
-grug no able see complexity demon, but grug sense its presence in code base
+grug no able see complexity demon, but grug sense presence in code base
 
 demon complexity spirit mocking him make change here break unrelated thing there what!?! mock mock mock ha ha so funny 
 grug love programming and not becoming shiney rock speculator like grug senior advise
@@ -284,7 +285,7 @@ not possible otherwise by doing thinking for grug, always good relief! grug alwa
 tools around him to maximize productivity: learn tools for two weeks make development often twice faster and often
 have dig around ask other developers help, no docs
 
-code completion in IDE allow grug not have remembered all API very important!  
+code completion in IDE allow grug not have remembered all API, very important!  
 
 java programming nearly impossible without it for grug!
 
@@ -294,7 +295,7 @@ good debugger worth weight in shiney rocks, in fact also more: when faced with b
 perhaps few children for good debugger and anyway debugger no weigh anything far as grug can tell  
 
 grug always recommend new programmer learn available debugger very deeply, features like conditional break points, expression
-evaluation, etc
+evaluation, stack navigation, etc teach new grug more about computer than university class often!
 
 grug say never be not improving tooling
 
@@ -303,18 +304,18 @@ grug say never be not improving tooling
 grug very like type systems make programming easier.  for grug, type systems most value when grug hit dot on keyboard and
 list of things grug can do pop up magic.  this 90% of value of type system or more to grug
 
-but beware big brains here!
-
-some type big brain think in type systems and talk in lemmas, can be very dangerous!
-
 big brain type system shaman often say type correctness main point type system, but grug note some big brain type system 
 shaman not often ship code.  grug suppose code never shipped is correct, in some sense, but not really what grug mean
 when say correct
 
-grug say tool magic pop up what can do and complete of code major benefit of type system, correctness also good but not 
-so much as tool helper or much as big brain think
+grug say tool magic pop up of what can do and complete of code major most benefit of type system, correctness also good but not 
+so nearly so much
 
-also beware: danger abstraction too high, and big brain type code become astral projection of platonic generic turing model of 
+also, often sometimes caution beware big brains here!
+
+some type big brain think in type systems and talk in lemmas, potential danger!
+
+danger abstraction too high, big brain type system code become astral projection of platonic generic turing model of 
 computation into code base.  grug confused and agree some level very elegant but also very hard do anything like 
 record number of club inventory for Grug Inc. task at hand
 
@@ -354,6 +355,42 @@ understand conditional expression!  EASIER DEBUG!"
 definitely easier debug and once club fight end calm down and young grug think a bit, they realize grug right
 
 grug still catch grug writing code like first example and often regret, so grug not judge young grug
+
+# <a name="grug-on-dry"></a>[DRY](#grug-on-dry)
+
+[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) mean Don't Repeat Self, powerful maxim over mind of most
+developers
+
+grug respect DRY and good advice, however grug recommend balance in all things, as gruggest big brain aristotle recommend
+
+grug note humourous graph by Lea Verou correspond with grug passion not repeat:
+
+<img alt="code concerns over time" src="over-time.png" style="width: 100%; clear: both"/>
+
+over time past ten years program grug not as concerned repeat code.  so long as repeat code simple enough and obvious 
+enough, and grug begin feel repeat/copy paste code with small variation is better than many callback/closures passed arguments
+or elaborate object model: too hard complex for too little benefit at times
+
+hard balance here, repeat code always still make grug stare and say "mmm" often, but experience show repeat code
+sometimes often better than complex DRY solution
+
+note well!  grug encourage over literal developer not take does work line too serious, is joke
+
+# <a name="grug-on-soc"></a>[Separation of Concerns (SoC)](#grug-on-soc)
+
+[Separation of Concern (SoC)](https://en.wikipedia.org/wiki/Separation_of_concerns) another powerful idea over many developer
+mind, idea to separate different aspects of system into distinct sections code
+
+canonical example from web development: separation of style (css file), markup (html file) and logic (javascript file)
+
+here grug much more sour faced than DRY and in fact write big brained essay on alternative design principle
+[locality of behavior (LoB)](https://htmx.org/essays/locality-of-behaviour/) against SoC
+
+grug much prefer put code on the thing that do the thing.  now when grug look at the thing grug know the thing what the
+thing do, alwasy good relief!
+
+when separate of concern grug must often all over tarnation many file look understand what how button do, much confuse 
+and time waste: bad!
 
 # <a name="grug-on-closures"></a>[Closures](#grug-on-closures)
 
@@ -411,6 +448,28 @@ but still need careful grug work to get right
 
 grug has never used [erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)), hear good things, but language 
 look wierd to grug sorry
+
+# <a name="grug-on-optimizing"></a>[Optimizing](#grug-on-optimizing)
+
+ultra biggest of brain developer once say:
+
+> premature optimization is the root of all evil
+
+this everyone mostly know and grug in humble violent agreement with ultra biggest of big brain
+
+grug recommend always to have concrete, real world perf profile showing specific perf issue before begin optimizing.  
+
+never know what actual issue might be, grug often surprise!  very often!
+
+beware only cpu focus: easy to see cpu and much big o notation thinking having been done in school,
+but often not root of all slowness, surprise to many including grug
+
+hitting network equivalent of many, many millions cpu cycle and always to be minimized if possible, note well big brain
+microservice developer!
+
+inexperienced big brain developer see nested loop and often say "O(n^2)?  Not on my watch!"
+
+complexity demon spirit smile
 
 # <a name="grug-on-apis"></a>[APIs](#grug-on-apis)
 
@@ -478,9 +537,7 @@ of much academic papers, sad but true
 most production parser recursive descent/top down, despite ignore by schools, grug furious when learn how simple parse
 is when working on industry, parsing not big brain only magic so can you!
 
-grug very elated find big brain developer Bob Nystrom write excellent book on recursive descent: 
-
-[Crafting Interpreters](https://craftinginterpreters.com/)
+grug very elated find big brain developer Bob Nystrom write excellent book on recursive descent: [Crafting Interpreters](https://craftinginterpreters.com/)
 
 book available online free, but grug highly recommend all interested grugs purchase book on general principle, provide
 much big brain advice and grug love book _very_ much except visitor pattern (trap!)
@@ -516,60 +573,6 @@ maybe they work for you, but no job post, sorry
 
 react better for job and also some type application, but also you become alcolyte of complexity demon whether you like 
 or no, sorry such is front end life
-
-# <a name="grug-on-optimizing"></a>[Optimizing](#grug-on-optimizing)
-
-ultra biggest brain developer once say:
-
-> premature optimization is the root of all evil
-
-this everyone mostly know and grug here agree with much violence and all humility with ultra big brain
-
-recommend always to have concrete, real world profile showing specific perf issue before begin optimizing, never know what actual
-issue might be, grug often surprise.  beware only cpu burn of focus: easy to see and much big o notation thinking having 
-been done in school but often not root of all slowness, surprise to many  
-
-hitting network equivalent of many, many millions cpu cycle and always to be minimized if possible, note well big brain 
-microservice developer!
-
-inexperienced big brain developer often see nested loop and say "O(n^2)?  Not on my watch!"
-
-complexity demon spirit smile
-
-# <a name="grug-on-dry"></a>[DRY](#grug-on-dry)
-
-[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) mean Don't Repeat Self (grug not sure about Y, why not DRS, 
-anyway) and powerful maxim over mind of most developers
-
-grug respect DRY and good advice, but recommend balance in all things as gruggest of big brains aristotle recommend
-
-grug note humourous graph by Lea Verou correspond with grug passion not repeat:
-
-<img alt="code concerns over time" src="over-time.png" style="width: 100%; clear: both"/>
-
-over time past ten snows grug not as concerned repeat code so long as repeat code simple enough and obvious enough, and grug begin
-feel repeat/copy paste code with small variation better than many callback/closures or elaborate object model 
-encapsulate difference: too hard complex for too little benefit at times
-
-always hard balance here, and repeat code always make grug stare and say "mmm" often, but experience show repeat code
-not always worse than potential solution
-
-also grug encourage over literal developer not take does work line too serious, is joke
-
-# <a name="grug-on-soc"></a>[Separation of Concerns (SoC)](#grug-on-soc)
-
-[Separation of Concern (SoC)](https://en.wikipedia.org/wiki/Separation_of_concerns) another powerful idea over many developer
-mind, idea to separate different aspects of system into distinct sections code
-
-canonical example from web development is separation of style (css file), markup (html file) and logic (javascript file)
-
-here grug much more sour faced than DRY and in fact attempt write big brained essay on alternative design principle
-[locality of behavior (LoB)](https://htmx.org/essays/locality-of-behaviour/) fight against SoC
-
-grug prefer put code on the thing that do the thing so when grug look at the thing grug know what the thing do!  
-
-when separate grug must all over tarnation many file look understand what button do, much confuse and time waste: how 
-this button do!?!
 
 # <a name="grug-on-fads"></a>[Fads](#grug-on-fads)
 
