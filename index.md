@@ -543,7 +543,7 @@ descent: [Crafting Interpreters](https://craftinginterpreters.com/)
 book available online free, but grug highly recommend all interested grugs purchase book on general principle, provide
 much big brain advice and grug love book _very_ much except visitor pattern (trap!)
 
-# <a name="grug-on-visitor-pattern"></a>[Visitor Pattern](#grug-on-visitor-pattern)
+# <a name="grug-on-visitor-pattern"></a>[The Visitor Pattern](#grug-on-visitor-pattern)
 
 [visitor pattern](https://en.wikipedia.org/wiki/Visitor_pattern) bad
 
