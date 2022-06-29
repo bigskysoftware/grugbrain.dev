@@ -523,24 +523,29 @@ nobody care about "stream" or even hear of "stream" before, is not networking ap
 
 # <a name="grug-on-parsing"></a>[Parsing](#grug-on-parsing)
 
-grug love make programming language drop of hat and 
+grug love make programming language at drop of hat and 
 say [recursive descent](https://en.wikipedia.org/wiki/Recursive_descent_parser)
 most fun and beautiful way create parser
 
-unfortunately many big brain school teach only parser generator tool.  here grug usual love of tool is not: generate code 
-of awful snakes nest, impossible understand, bottom up, what?  hide recursive nature of grammar from student and debug
-impossible, very bad according grug!
+unfortunately many big brain school teach only parser generator tool.  here grug usual love of tool is not: parser 
+generator tool generate code of awful snakes nest: impossible understand, bottom up, what?  hide recursive nature of 
+grammar from grug and debug impossible, very bad according grug!
 
-grug think this because while complexity demon bad for code base and understand, complexity demon good for generation
+grug think this because while complexity demon bad for code base and understand, complexity demon very good for generation
 of much academic papers, sad but true
 
-most production parser recursive descent/top down, despite ignore by schools, grug furious when learn how simple parse
-is when working on industry, parsing not big brain only magic so can you!
+production parser almost always recursive descent, despite ignore by schools!  grug furious when learn how simple parse 
+is! parsing not big brain only magic: so can you!
 
-grug very elated find big brain developer Bob Nystrom write excellent book on recursive descent: [Crafting Interpreters](https://craftinginterpreters.com/)
+grug very elated find big brain developer Bob Nystrom redeem the big brain tribe and write excellent book on recursive
+descent: [Crafting Interpreters](https://craftinginterpreters.com/)
 
 book available online free, but grug highly recommend all interested grugs purchase book on general principle, provide
 much big brain advice and grug love book _very_ much except visitor pattern (trap!)
+
+# <a name="grug-on-visitor-pattern"></a>[Visitor Pattern](#grug-on-visitor-pattern)
+
+[visitor pattern](https://en.wikipedia.org/wiki/Visitor_pattern) bad
 
 # <a name="grug-on-front-end-development"></a>[Front End Development](#grug-on-front-end-development)
 
