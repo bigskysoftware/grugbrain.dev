@@ -246,7 +246,7 @@ also grug notice that introducing too much abstraction often lead to refactor fa
 was [J2EE](https://www.webopedia.com/definitions/j2ee/) introduce, many big brain sit around thinking too much abstraction, nothing good came of it many project hurt
 
 another good example when company grug work for introduce [OSGi](https://www.techtarget.com/searchnetworking/definition/OSGi) to help 
-manage/trap spriit complexity demon in code base.  not only OSGi not help, but make complexity demon much more powerful!
+manage/trap spirit complexity demon in code base.  not only OSGi not help, but make complexity demon much more powerful!
 took multiple man year of best developers to rework as well to boot!  more complex spirit and now features impossible 
 implement! very bad!
 
