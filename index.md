@@ -545,7 +545,7 @@ much big brain advice and grug love book _very_ much except visitor pattern (tra
 
 # <a name="grug-on-visitor-pattern"></a>[The Visitor Pattern](#grug-on-visitor-pattern)
 
-[visitor pattern](https://en.wikipedia.org/wiki/Visitor_pattern) bad
+[bad](https://en.wikipedia.org/wiki/Visitor_pattern) 
 
 # <a name="grug-on-front-end-development"></a>[Front End Development](#grug-on-front-end-development)
 
