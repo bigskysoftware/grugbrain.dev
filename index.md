@@ -226,7 +226,10 @@ shaman, ask more shiney rock better agile train young grugs on agile, danger!
 grug tempted reach for club when too much agile talk happen but always stay calm
 
 prototyping, tools and hiring good grugs better key to success software: agile process ok and help some but sometimes hurt taken
-too seriously, never silver club no matter what agile shaman say (danger!)
+too seriously
+
+grug say [no silver club](https://en.wikipedia.org/wiki/No_Silver_Bullet) fix all software problems no matter what agile
+shaman say (danger!)
 
 # <a name="grug-on-refactoring"></a>[Refactoring](#grug-on-refactoring)
 
