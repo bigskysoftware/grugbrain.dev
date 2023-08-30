@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Grug Brained Jobs</title>
+  <link>https://grugbrain.dev/</link>
+  <description>Jobs seeking Grug-brained Developers</description>
+  <item>
+    <title>Example</title>
+    <link>https://google.com</link>
+    <description>Example Job (Google could use some more grug brains...)</description>
+  </item>
+</channel>
+
+</rss>

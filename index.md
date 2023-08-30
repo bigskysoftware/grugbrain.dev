@@ -12,6 +12,8 @@ layout: layout.njk
   </h1>
 </div>
 
+<center><a href="/jobs.rss">jobs</a></center>
+
 # Introduction
 
 this collection of thoughts on software development gathered by grug brain developer
