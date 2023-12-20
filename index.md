@@ -390,7 +390,7 @@ here grug much more sour faced than DRY and in fact write big brained essay on a
 [locality of behavior (LoB)](https://htmx.org/essays/locality-of-behaviour/) against SoC
 
 grug much prefer put code on the thing that do the thing.  now when grug look at the thing grug know the thing what the
-thing do, alwasy good relief!
+thing do, always good relief!
 
 when separate of concern grug must often all over tarnation many file look understand what how button do, much confuse 
 and time waste: bad!
