@@ -12,6 +12,10 @@ layout: layout.njk
   </h1>
 </div>
 
+<center>
+<a id="book" href="https://swag.htmx.org/en-usd/products/the-grug-brained-developer-book">Buy Book</a>
+</center>
+
 # Introduction
 
 this collection of thoughts on software development gathered by grug brain developer
