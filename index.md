@@ -13,7 +13,7 @@ layout: layout.njk
 </div>
 
 <center>
-<a id="book" href="https://swag.htmx.org/en-usd/products/the-grug-brained-developer-book">Buy Book</a>
+<a id="book" href="https://swag.htmx.org/collections/grug">Buy</a>
 </center>
 
 # Introduction
