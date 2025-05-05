@@ -12,10 +12,10 @@ layout: layout.njk
   </h1>
 </div>
 
-<center>
+<div id="stuff">
 <a id="book" href="https://www.lulu.com/shop/carson-gross/the-grug-brained-developer/paperback/product-2m47wqg.html">Book</a> | 
 <a id="swag" href="https://swag.htmx.org/collections/grug">Swag</a>
-</center>
+</div>
 
 # Introduction
 
