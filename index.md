@@ -25,7 +25,7 @@ grug brain developer not so smart, but grug brain developer program many long ye
 although mostly still confused
 
 grug brain developer try collect learns into small, easily digestible and funny page, not only for you, the young grug, but also for him
-because as grug brain developer get older he forget important things, like what had for breakfast or if put pants on
+because as grug brain developer get older grug forget important things, like what had for breakfast or if put pants on
 
 big brained developers are many, and some not expected to like this, make sour face
 
@@ -64,7 +64,7 @@ next day impossible: complexity demon spirit has entered code and very dangerous
 
 grug no able see complexity demon, but grug sense presence in code base
 
-demon complexity spirit mocking him make change here break unrelated thing there what!?! mock mock mock ha ha so funny 
+demon complexity spirit mocking grug make change here break unrelated thing there what!?! mock mock mock ha ha so funny 
 grug love programming and not becoming shiney rock speculator like grug senior advise
 
 club not work on demon spirit complexity and bad idea actually hit developer who let spirit in with club: sometimes grug
@@ -290,7 +290,7 @@ seem very confusing to grug
 
 grug love tool.  tool and control passion what separate grug from dinosaurs!  tool allow grug brain to create code that 
 not possible otherwise by doing thinking for grug, always good relief! grug always spend time in new place learning 
-tools around him to maximize productivity: learn tools for two weeks make development often twice faster and often
+tools around grug to maximize productivity: learn tools for two weeks make development often twice faster and often
 have dig around ask other developers help, no docs
 
 code completion in IDE allow grug not have remembered all API, very important!  
@@ -523,7 +523,7 @@ what?
 
 "Define a Collector&lt;? super T, A, R&gt; to collect your stream into a list"
 
-grug now swear on ancestor grave he club every single person in room, but count two instead and remain calm
+grug now swear on ancestor grave to club every single person in room, but count two instead and remain calm
 
 put common thing like `filter()` on list and make return list, listen well big brain java api developer!  
 
