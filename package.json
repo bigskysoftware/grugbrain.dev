@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/bigskysoftware/grugbrain.dev.git"
   },
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve"
+  },
   "keywords": [],
   "author": "",
   "license": "BSD",
