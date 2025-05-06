@@ -584,7 +584,7 @@ keep complexity low, simple HTML, avoid lots javascript, the natural ether of sp
 
 maybe they work for you, but no job post, sorry
 
-react better for job and also some type application, but also you become alcolyte of complexity demon whether you like 
+react better for job and also some type application, but also you become acolyte of complexity demon whether you like 
 or no, sorry such is front end life
 
 # <a name="grug-on-fads"></a>[Fads](#grug-on-fads)
