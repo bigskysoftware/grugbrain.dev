@@ -1,0 +1,270 @@
+:root {
+  color-scheme: light dark;
+  --color-grug-red: #941532;
+  --color-grug-orange: #f77d32;
+  --color-grug-green: #1a2c2f;
+  --flow-space: clamp(1rem, 1.3143rem + 1.5286vw, 1.7rem);
+  --text-fluid-16-20: clamp(1rem, 0.9286rem + 0.3571vw, 1.25rem);
+  --text-fluid-24-32: clamp(1.5rem, 1.3571rem + 0.7143vw, 2rem);
+  --text-fluid-32-56: clamp(2rem, 1.5714rem + 2.1429vw, 3.5rem);
+  --text-fluid-18-24: clamp(1.125rem, 1.0179rem + 0.5357vw, 1.5rem);
+}
+
+/* Reset */
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Prevent font size inflation + aliasing */
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+  font-size: 100%;
+}
+
+/* Remove default margin in favor of better control in authored CSS */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+figure,
+blockquote,
+dl,
+dd,
+ul,
+ol,
+li,
+pre,
+code {
+  margin-block: 0;
+  margin-inline: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+  padding: 0;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+/* Set shorter line heights on headings and interactive elements */
+h1,
+h2,
+h3,
+h4,
+button,
+input,
+label {
+  line-height: 1.1;
+}
+
+/* Balance text wrapping on headings */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-wrap: balance;
+  max-width: 21ch;
+  letter-spacing: 0.3px;
+}
+
+h1 {
+  max-width: 17ch;
+}
+
+/* Keep the line width accessible */
+p,
+pre,
+code,
+strong,
+ul,
+li {
+  text-wrap: pretty;
+  max-width: 55ch;
+  overflow-wrap: break-word;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+  color: currentColor;
+}
+
+hr {
+  margin-block: 0;
+  border: 1px solid var(--color-black-600);
+}
+
+/* Make images easier to work with */
+img,
+picture,
+object,
+svg {
+  max-width: 100%;
+  display: block;
+  font-style: italic;
+}
+
+/* Make b element less bold */
+b {
+  font-weight: 500;
+}
+
+/* Keep the image's aspect ratio */
+img,
+picture {
+  height: 100%;
+}
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+  scroll-margin-block: 5ex;
+}
+
+/* End of Reset */
+
+body {
+  font-family: Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #222;
+
+  display: grid;
+  place-content: center;
+
+  max-width: min(85vw, 922px);
+  margin-inline: auto;
+  margin-block: 2rem;
+}
+
+body > * + * {
+  margin-block-start: var(--flow-space);
+}
+
+::selection {
+  color: var(--color-1, #fff);
+  background: var(--color-2, #000);
+}
+
+img,
+svg {
+  user-select: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro, sans-serif;
+  color: var(--color-1, #000);
+}
+
+pre,
+code {
+  font-family:
+    ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
+}
+
+pre {
+  padding: 0.25rem;
+  border-radius: 0.05rem;
+}
+
+/* Fluid typography */
+h1,
+h1 a {
+  font-size: var(--text-fluid-32-56);
+}
+
+h2,
+h2 a {
+  font-size: var(--text-fluid-24-32);
+}
+
+h3,
+h3 a {
+  font-size: var(--text-fluid-18-24);
+}
+
+p,
+span,
+strong,
+a,
+li,
+h5,
+h5,
+h6 {
+  font-size: var(--text-fluid-16-20);
+}
+
+a {
+  text-decoration: transparent;
+  text-underline-offset: 0.25rem;
+}
+
+p a {
+  color: blue !important;
+}
+
+ul li a {
+  font-weight: 500;
+  color: blue !important;
+}
+
+a:hover,
+a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
+}
+
+p a:visited {
+  color: #a100ff;
+}
+
+[data-section="heading"] {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+[data-section="heading"] img {
+  width: 14rem;
+  height: auto;
+  border-radius: 0.15rem;
+}
+
+[data-section="heading"] img:hover {
+  transition: all 30ms ease-in-out;
+  filter: saturate(150%);
+}
+
+[data-section="heading"] h1 small {
+  display: block;
+  font-style: italic;
+  margin-block-start: 0.75rem;
+  color: #222;
+}
+
+[data-section="book-and-swag"] {
+  width: fit-content;
+}
+
+img[alt="code concerns over time"] {
+  width: min(100%, 60ch);
+}
