@@ -152,7 +152,7 @@ body > * + * {
 
 ::selection {
   color: var(--color-light);
-  background: var(--color-text-primary);
+  background-color: var(--color-text-primary);
 }
 
 img,
@@ -272,5 +272,10 @@ img[alt="code concerns over time"] {
   pre {
     background-color: #222;
     /* color: var(--color-text-secondary); */
+  }
+
+  ::selection {
+    background-color: var(--color-light);
+    color: #000;
   }
 }
