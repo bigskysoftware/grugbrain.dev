@@ -1,7 +1,7 @@
 :root {
   color-scheme: light dark;
-  --color-dark: #000;
-  --color-light-dark: #222;
+  --color-text-primary: #000;
+  --color-text-secondary: #222;
   --color-light: #fff;
   --flow-space: clamp(1rem, 1.3143rem + 1.5286vw, 1.7rem);
   --text-fluid-16-20: clamp(1rem, 0.9286rem + 0.3571vw, 1.25rem);
@@ -136,7 +136,7 @@ body {
   font-family: Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial, sans-serif;
   font-weight: 400;
   font-size: 1rem;
-  color: var(--color-light-dark);
+  color: var(--color-text-secondary);
 
   display: grid;
   place-content: center;
@@ -152,7 +152,7 @@ body > * + * {
 
 ::selection {
   color: var(--color-light);
-  background: var(--color-dark);
+  background: var(--color-text-primary);
 }
 
 img,
@@ -166,7 +166,7 @@ h3,
 h4,
 h5 {
   font-family: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro, sans-serif;
-  color: var(--color-dark);
+  color: var(--color-text-primary);
 }
 
 pre,
@@ -193,14 +193,15 @@ h2 a {
 }
 
 h3,
-h3 a {
+h3 a,
+small {
   font-size: var(--text-fluid-18-24);
 }
 
 h1 a,
 h2 a,
 h3 a {
-  color: var(--color-dark);
+  color: var(--color-text-primary);
 }
 
 p,
@@ -231,12 +232,12 @@ a:focus-visible {
 
 [data-section="heading"] {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   align-items: center;
 }
 
 [data-section="heading"] img {
-  width: 14rem;
+  width: min(240px, 10rem);
   height: auto;
   border-radius: 0.15rem;
 }
@@ -250,13 +251,26 @@ a:focus-visible {
   display: block;
   font-style: italic;
   margin-block-start: 0.75rem;
-  color: var(--color-light-dark);
+  color: var(--color-text-secondary);
 }
 
 [data-section="book-and-swag"] {
   width: fit-content;
+  font-weight: 500;
 }
 
 img[alt="code concerns over time"] {
   width: min(100%, 60ch);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text-primary: #fff;
+    --color-text-secondary: #fafafa;
+  }
+
+  pre {
+    background-color: #222;
+    /* color: var(--color-text-secondary); */
+  }
 }
