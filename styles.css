@@ -1,8 +1,8 @@
 :root {
   color-scheme: light dark;
-  --color-grug-red: #941532;
-  --color-grug-orange: #f77d32;
-  --color-grug-green: #1a2c2f;
+  --color-dark: #000;
+  --color-light-dark: #222;
+  --color-light: #fff;
   --flow-space: clamp(1rem, 1.3143rem + 1.5286vw, 1.7rem);
   --text-fluid-16-20: clamp(1rem, 0.9286rem + 0.3571vw, 1.25rem);
   --text-fluid-24-32: clamp(1.5rem, 1.3571rem + 0.7143vw, 2rem);
@@ -99,15 +99,9 @@ li {
   overflow-wrap: break-word;
 }
 
-/* A elements that don't have a class get default styles */
-a:not([class]) {
-  text-decoration-skip-ink: auto;
-  color: currentColor;
-}
-
 hr {
   margin-block: 0;
-  border: 1px solid var(--color-black-600);
+  border: 1px solid currentColor;
 }
 
 /* Make images easier to work with */
@@ -142,7 +136,7 @@ body {
   font-family: Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial, sans-serif;
   font-weight: 400;
   font-size: 1rem;
-  color: #222;
+  color: var(--color-light-dark);
 
   display: grid;
   place-content: center;
@@ -157,8 +151,8 @@ body > * + * {
 }
 
 ::selection {
-  color: var(--color-1, #fff);
-  background: var(--color-2, #000);
+  color: var(--color-light);
+  background: var(--color-dark);
 }
 
 img,
@@ -172,7 +166,7 @@ h3,
 h4,
 h5 {
   font-family: Avenir, Montserrat, Corbel, "URW Gothic", source-sans-pro, sans-serif;
-  color: var(--color-1, #000);
+  color: var(--color-dark);
 }
 
 pre,
@@ -182,8 +176,9 @@ code {
 }
 
 pre {
-  padding: 0.25rem;
-  border-radius: 0.05rem;
+  background-color: #f1f1f1;
+  padding: 0.5rem;
+  border-radius: 0.7rem;
 }
 
 /* Fluid typography */
@@ -202,6 +197,12 @@ h3 a {
   font-size: var(--text-fluid-18-24);
 }
 
+h1 a,
+h2 a,
+h3 a {
+  color: var(--color-dark);
+}
+
 p,
 span,
 strong,
@@ -218,23 +219,14 @@ a {
   text-underline-offset: 0.25rem;
 }
 
-p a {
-  color: blue !important;
-}
-
 ul li a {
   font-weight: 500;
-  color: blue !important;
 }
 
 a:hover,
 a:focus-visible {
   text-decoration: underline;
   text-underline-offset: 0.25rem;
-}
-
-p a:visited {
-  color: #a100ff;
 }
 
 [data-section="heading"] {
@@ -258,7 +250,7 @@ p a:visited {
   display: block;
   font-style: italic;
   margin-block-start: 0.75rem;
-  color: #222;
+  color: var(--color-light-dark);
 }
 
 [data-section="book-and-swag"] {
