@@ -17,6 +17,8 @@ layout: layout.njk
 <a id="swag" href="https://swag.htmx.org/collections/grug">Swag</a>
 </div>
 
+<p><a href="/ru/" lang="ru" hreflang="ru">Русский</a></p>
+
 # Introduction
 
 this collection of thoughts on software development gathered by grug brain developer
